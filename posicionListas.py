@@ -2,7 +2,7 @@
 """
 Created on Tue Jan  8 10:03:53 2019
 
-@author: Yamagushi
+@author: Yamabushi
 """
 
 def numero():

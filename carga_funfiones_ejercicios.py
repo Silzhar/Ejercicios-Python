@@ -2,7 +2,7 @@
 """
 Created on Fri Jan 25 14:09:53 2019
 
-@author: Yamagushi
+@author: Yamabushi
 """
 
 def frase():
